@@ -1,5 +1,0 @@
-http://www.simpleimageresizer.com/upload    image resize 
-
-https://img-resize.com/
-
-src="http://place-hold.it/1325x375"      image place holder
